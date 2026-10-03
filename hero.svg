@@ -238,7 +238,7 @@ text { font-family: 'JBM', ui-monospace, Menlo, Consolas, monospace; }
 
     <!-- Greeting & Big Name -->
     <text class="sgm" x="0" y="122" font-size="28" fill="#eceef6">Hi there, I'm</text>
-    <text class="sg" x="0" y="182" font-size="54" fill="url(#nameG)" letter-spacing="-.5">jaritrix02</text>
+    <text class="sg" x="0" y="182" font-size="54" fill="url(#nameG)" letter-spacing="-.5">Mr. Kumar</text>
 
     <!-- 4 Cycling Role Titles -->
     <g transform="translate(0, 236)">
