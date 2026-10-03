@@ -105,7 +105,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 
     <!-- Greeting & Big Name -->
     <text class="sgm" x="0" y="125" font-size="28" fill="#eceef6">Hi there, I'm</text>
-    <text class="sg" x="0" y="185" font-size="52" fill="url(#nameG)" letter-spacing="-.5">Full-Stack Dev</text>
+    <text class="sg" x="0" y="185" font-size="52" fill="url(#nameG)" letter-spacing="-.5">jaritrix02</text>
 
     <!-- Cycling Role Titles -->
     <g transform="translate(0, 240)">

@@ -90,29 +90,29 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 <!-- MOST-STARRED PROJECTS BAR CHART -->
 <g class="tile" style="animation-delay:1.1s">
   <rect x="420" y="240" width="462" height="306" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/>
-  <text class="jbb" x="442" y="272" font-size="11" fill="#8d93ab" letter-spacing="1.6">MOST-STARRED PROJECTS</text>
+  <text class="jbb" x="442" y="272" font-size="11" fill="#8d93ab" letter-spacing="1.6">FEATURED WORK &amp; BUILDS</text>
   
-  <text class="jb" x="442" y="311" font-size="12" fill="#8d93ab">Naruto — Sage Mode</text>
-  <rect x="592" y="300" width="210" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="812" y="311" font-size="12" fill="#eceef6">25</text>
+  <text class="jb" x="442" y="311" font-size="12" fill="#8d93ab">NexusERP Enterprise</text>
+  <rect x="612" y="300" width="190" height="14" rx="7" fill="url(#barG)"/>
+  <text class="jbb" x="812" y="311" font-size="12" fill="#eceef6">28</text>
 
-  <text class="jb" x="442" y="345" font-size="12" fill="#8d93ab">Zoro — King of Hell</text>
-  <rect x="592" y="334" width="76" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="678" y="345" font-size="12" fill="#eceef6">9</text>
+  <text class="jb" x="442" y="345" font-size="12" fill="#8d93ab">StoreTrack PWA</text>
+  <rect x="612" y="334" width="150" height="14" rx="7" fill="url(#barG)"/>
+  <text class="jbb" x="772" y="345" font-size="12" fill="#eceef6">22</text>
 
-  <text class="jb" x="442" y="379" font-size="12" fill="#8d93ab">Demon Slayer</text>
-  <rect x="592" y="368" width="68" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="669" y="379" font-size="12" fill="#eceef6">8</text>
+  <text class="jb" x="442" y="379" font-size="12" fill="#8d93ab">Website-Ecommerce</text>
+  <rect x="612" y="368" width="125" height="14" rx="7" fill="url(#barG)"/>
+  <text class="jbb" x="747" y="379" font-size="12" fill="#eceef6">18</text>
 
-  <text class="jb" x="442" y="413" font-size="12" fill="#8d93ab">JJK — Sukuna</text>
-  <rect x="592" y="402" width="68" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="669" y="413" font-size="12" fill="#eceef6">8</text>
+  <text class="jb" x="442" y="413" font-size="12" fill="#8d93ab">Gojo Cinematic Web</text>
+  <rect x="612" y="402" width="100" height="14" rx="7" fill="url(#barG)"/>
+  <text class="jbb" x="722" y="413" font-size="12" fill="#eceef6">14</text>
 
-  <text class="jb" x="442" y="447" font-size="12" fill="#8d93ab">One Piece 3D</text>
-  <rect x="592" y="436" width="18" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="619" y="447" font-size="12" fill="#eceef6">2</text>
+  <text class="jb" x="442" y="447" font-size="12" fill="#8d93ab">Interactive Game</text>
+  <rect x="612" y="436" width="65" height="14" rx="7" fill="url(#barG)"/>
+  <text class="jbb" x="687" y="447" font-size="12" fill="#eceef6">9</text>
 
-  <text class="jb" x="442" y="494" font-size="10" fill="#8d93ab" opacity=".75">stars per repository · full-stack &amp; web builds</text>
+  <text class="jb" x="442" y="494" font-size="10" fill="#8d93ab" opacity=".75">stars &amp; highlights · full-stack &amp; web applications</text>
 </g>
 
 <!-- COMMUNITY TILE -->
@@ -172,7 +172,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
     <path d="M80 221h34M97 212v26" stroke="#8a6a1e" stroke-width="1" stroke-opacity=".6"/>
 
     <!-- Developer identity text -->
-    <text class="sg" x="212" y="412" font-size="24" fill="#eceef6" text-anchor="middle">Full-Stack Dev</text>
+    <text class="sg" x="212" y="412" font-size="24" fill="#eceef6" text-anchor="middle">jaritrix02</text>
     <text class="jb" x="212" y="434" font-size="11.5" fill="#38bdf8" text-anchor="middle" letter-spacing="1.6">FULL-STACK ENGINEER</text>
     <line x1="82" y1="450" x2="342" y2="450" stroke="#262a42"/>
 
@@ -181,8 +181,8 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
     <text class="sgm" x="82" y="478" font-size="13" fill="#eceef6">India</text>
     <text class="jb" x="222" y="462" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">PRONOUNS</text>
     <text class="sgm" x="222" y="478" font-size="13" fill="#eceef6">He / Him</text>
-    <text class="jb" x="82" y="492" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">ID</text>
-    <text class="sgm" x="82" y="508" font-size="13" fill="#eceef6">DEV-0920</text>
+    <text class="jb" x="82" y="492" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">HANDLE</text>
+    <text class="sgm" x="82" y="508" font-size="13" fill="#eceef6">@jaritrix02</text>
     <text class="jb" x="222" y="492" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">STATUS</text>
     <text class="sgm" x="222" y="508" font-size="13" fill="#10b981">Available</text>
 
