@@ -108,7 +108,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
   <rect x="612" y="402" width="125" height="14" rx="7" fill="url(#barG)"/>
   <text class="jbb" x="747" y="413" font-size="12" fill="#eceef6">18</text>
 
-  <text class="jb" x="442" y="447" font-size="12" fill="#8d93ab">Gojo Cinematic Web</text>
+  <text class="jb" x="442" y="447" font-size="12" fill="#8d93ab">RPSPro Multiplayer Game</text>
   <rect x="612" y="436" width="100" height="14" rx="7" fill="url(#barG)"/>
   <text class="jbb" x="722" y="447" font-size="12" fill="#eceef6">14</text>
 

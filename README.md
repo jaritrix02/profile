@@ -96,15 +96,16 @@ Here are some of the key platforms, enterprise systems, 3D WebGL animations, and
 
 <br/>
 
-### 5. 🌌 Gojo Domain Expansion — Cinematic Interactive Web Experience
-> *An Awwwards-inspired cinematic web experience featuring custom scroll-scrubbed frame animation, cosmic void audio-visual effects, and cyberpunk HUD overlays.*
+### 5. 🎮 RPSPro — Real-Time Multiplayer Battle Game
+> *A competitive real-time multiplayer Rock-Paper-Scissors battle arena featuring live WebSocket room matchmaking, user authentication, interactive neon cyberpunk UI, and persistent player statistics.*
 
 <div align="center">
-  <img src="./assets/projects/anime-interactive.jpg" alt="Cinematic Anime Web Experience" width="100%" style="border-radius: 12px;"/>
+  <img src="./assets/projects/game-rpspro.jpg" alt="RPSPro Real-Time Multiplayer Battle Game" width="100%" style="border-radius: 12px;"/>
 </div>
 
-- **Core Capabilities**: Scroll-driven video and canvas scrubbing, custom domain expansion soundscape, floating glowing Kanji runes, and dark neo-futuristic HUD layout.
-- **Tech Stack**: `HTML5` `CSS3` `JavaScript` `GSAP` `Canvas API` `Web Audio`
+- **Core Capabilities**: Real-time room matchmaking with WebSockets/Socket.io, best-of-5 competitive tournament rounds, JWT session authentication, and dynamic win/loss animations.
+- **Tech Stack**: `Node.js` `Express` `Socket.io` `MongoDB` `JWT` `HTML5/CSS3` `JavaScript`
+- **Links**: [🎮 Play Live Demo](https://jaritrix02.github.io/GAME/) • [💻 GitHub Repository](https://github.com/jaritrix02/GAME)
 
 <br/>
 
@@ -117,7 +118,6 @@ Here are some of the key platforms, enterprise systems, 3D WebGL animations, and
 | Project | Description | Stack | Links |
 |:---|:---|:---|:---:|
 | [**Portfolio**](https://github.com/jaritrix02/Portfolio) | Full-stack interactive developer portfolio with modern dark aesthetic and project showcase | `HTML` `CSS` `JS` | [🌐 Live Demo](https://jaritrix02.github.io/Portfolio/) |
-| [**Rock-Paper-Scissors**](https://github.com/jaritrix02/GAME) | Interactive browser game with animated win/loss feedback and persistent scoring | `HTML` `CSS` `JS` | [🎮 Play Now](https://jaritrix02.github.io/GAME/) |
 | [**Hindi TTS (gTTS)**](https://github.com/jaritrix02/hindi-tts-gtts) | Python automated Text-to-Speech tool leveraging Google TTS for Hindi voice synthesis | `Python` `gTTS` | [💻 Repository](https://github.com/jaritrix02/hindi-tts-gtts) |
 
 <br/>
