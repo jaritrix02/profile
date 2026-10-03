@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- 🎬 HERO — video intro + name -->
-<img src="./hero.svg?v=2" alt="jaritrix02 — Full-Stack Developer" width="100%"/>
+<img src="./hero.svg?v=3" alt="jaritrix02 — Full-Stack Developer" width="100%"/>
 
 <br/><br/>
 
 <!-- 👨‍💻 LEFT: what I build   •   🏃 RIGHT: life outside code -->
-<img src="./about-life.svg?v=2" alt="What I build, and life beyond the code" width="100%"/>
+<img src="./about-life.svg?v=3" alt="What I build, and life beyond the code" width="100%"/>
 
 <br/><br/>
 
 <!-- ⚛️ TECH STACK -->
-<img src="./stack.svg?v=2" alt="Tech stack" width="100%"/>
+<img src="./stack.svg?v=3" alt="Tech stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 DEVELOPER ID + DASHBOARD -->
-<img src="./id-dashboard.svg?v=2" alt="Developer ID and dashboard" width="100%"/>
+<img src="./id-dashboard.svg?v=3" alt="Developer ID and dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Projects & Systems
 
-Here are some of the key platforms, enterprise systems, and interactive web experiences I have architected and built:
+Here are some of the key platforms, enterprise systems, 3D WebGL animations, and interactive web experiences I have architected and built:
 
 <br/>
 
@@ -62,7 +62,24 @@ Here are some of the key platforms, enterprise systems, and interactive web expe
 
 <br/>
 
-### 3. 🛍️ Website-Ecommerce — Modern Digital Gadget Storefront
+### 3. 🛸 Fly2.0 — 3D Three.js Scroll Animation & WebGL Experience
+> *Cinematic 3D WebGL interactive scroll experience featuring a bio-mechanical creature (`demon_bee_full_texture.glb`), custom camera paths, and dynamic lighting.*
+
+<div align="center">
+  <img src="./assets/projects/fly2.jpg" alt="Fly2.0 3D Three.js WebGL Experience" width="100%" style="border-radius: 12px;"/>
+</div>
+
+- **Core Capabilities**: Smooth scroll-triggered 3D model orientation, real-time GLTF/GLB texture rendering, responsive Three.js canvas viewport, and parallax environment layers.
+- **Tech Stack**: `Three.js` `WebGL` `GLTF / GLB` `JavaScript` `CSS3` `HTML5`
+- **Links**: [🌐 Live 3D Experience (Render)](https://fly2.onrender.com) • [💻 GitHub Repository](https://github.com/jaritrix02/fly2.0)
+
+<br/>
+
+---
+
+<br/>
+
+### 4. 🛍️ Website-Ecommerce — Modern Digital Gadget Storefront
 > *A sleek, high-conversion e-commerce platform featuring an interactive product catalog, quick-view modals, dynamic cart drawer, and responsive checkout UX.*
 
 <div align="center">
@@ -79,7 +96,7 @@ Here are some of the key platforms, enterprise systems, and interactive web expe
 
 <br/>
 
-### 4. 🌌 Gojo Domain Expansion — Cinematic Interactive Web Experience
+### 5. 🌌 Gojo Domain Expansion — Cinematic Interactive Web Experience
 > *An Awwwards-inspired cinematic web experience featuring custom scroll-scrubbed frame animation, cosmic void audio-visual effects, and cyberpunk HUD overlays.*
 
 <div align="center">
@@ -95,7 +112,7 @@ Here are some of the key platforms, enterprise systems, and interactive web expe
 
 <br/>
 
-### 5. 🎮 Interactive Game Engine & Utility Builds
+### 6. 🎮 Interactive Game Engine & Utility Builds
 
 | Project | Description | Stack | Links |
 |:---|:---|:---|:---:|
@@ -118,7 +135,7 @@ Here are some of the key platforms, enterprise systems, and interactive web expe
 <br/><br/>
 
 <!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=2" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=3" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/jaritrix02"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
